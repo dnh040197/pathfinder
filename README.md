@@ -6,4 +6,4 @@ You can press r to randomize the walls (blue-colored block) or just draw one any
 
 Here's a quick overview of the program
 
-![alt-text](https://github.com/zinzin2312/SudokuSolver/blob/master/visual/the-gif.gif)
+![alt-text](https://github.com/zinzin2312/pathfinder/blob/master/visual/the-gif.gif)
