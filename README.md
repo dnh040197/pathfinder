@@ -1,6 +1,6 @@
 Hello, this is my implementation of the path-finding algorithm using breadth-first search.
 
-The goal is to find the best path from the upperleft corner (yellow-colored block) to the lower right corner.
+The goal is to find the best path from the upperleft corner (yellow-colored block) to the lower right corner (green-colored block).
 
 You can press r to randomize the walls (blue-colored block) or just draw one anywhere you want by clicking or dragging.
 
